@@ -1,6 +1,12 @@
 # 207/210. Course Schedule and Merging Partial Orders
 
 **Recorded:** 2026-11-14  
+
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Consolidated interview-preparation material in this repository. Treat examples, metrics, and ownership as prompts to verify against your firsthand experience; return to Codex with the note title for expansion or correction.
 **Original practice:** 2026-10-19 and 2026-10-25/26
 
 ## Pattern

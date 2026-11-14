@@ -1,6 +1,12 @@
 # Java OOP, Collections, HashMap, and Equality
 
 **Recorded:** 2026-11-14  
+
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Consolidated interview-preparation material in this repository. Treat examples, metrics, and ownership as prompts to verify against your firsthand experience; return to Codex with the note title for expansion or correction.
 **Original preparation:** 2026-09-11; reviewed 2026-10-29
 
 ## OOP quick answers

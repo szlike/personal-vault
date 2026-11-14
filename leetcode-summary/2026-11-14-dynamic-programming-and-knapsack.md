@@ -1,6 +1,12 @@
 # Dynamic Programming, Memoization, and 0/1 Knapsack
 
 **Recorded:** 2026-11-14  
+
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Consolidated interview-preparation material in this repository. Treat examples, metrics, and ownership as prompts to verify against your firsthand experience; return to Codex with the note title for expansion or correction.
 **Practice period:** September–October 2026
 
 ## When DP applies

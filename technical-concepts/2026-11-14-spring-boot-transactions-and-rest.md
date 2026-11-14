@@ -1,6 +1,12 @@
 # Spring Boot — IoC, Beans, Transactions, and REST
 
 **Recorded:** 2026-11-14  
+
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Consolidated interview-preparation material in this repository. Treat examples, metrics, and ownership as prompts to verify against your firsthand experience; return to Codex with the note title for expansion or correction.
 **Original preparation:** 2026-09-11; revisited 2026-10-29
 
 ## Spring core concepts
