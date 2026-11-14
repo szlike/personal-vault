@@ -8,7 +8,7 @@ This story is told in STAR form, which means Situation, Task, Action, Result. It
 
 The situation was a migration of Elasticsearch from version 7 to version 8 across 10 nodes, arranged as 5 primary and replica pairs. The task was to move the search index to the new version without losing data and without long downtime.
 
-Two approaches were weighed. One was a rolling upgrade, node by node. The other was parallel dual-write, running the old and new versions side by side and writing to both. The migration used remote reindex to move data between versions.
+Two approaches were weighed. One was a rolling upgrade, node by node. The other was parallel dual-write, running the old and new versions side by side and writing to both. The migration used remote reindex and snapshot repository to move data between versions.
 
 The products split into two groups. Five products were zero-loss Kafka products, each carrying about 20,000 messages per day, and these could not lose a single message. Ten products were reindexable from Hive or S3 (Simple Storage Service), so their data could be rebuilt from the source if needed.
 
