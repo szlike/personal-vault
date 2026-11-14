@@ -4,7 +4,7 @@
 
 ## Focus
 
-Prepare concise STAR stories that demonstrate:
+Prepare concise STAR stories that demonstrate: (Situation, Task, Action, Result)
 
 - Measurable impact and ownership
 - Leading through influence
