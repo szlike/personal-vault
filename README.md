@@ -1,11 +1,17 @@
 # Interview Preparation Vault
 
-A focused, evolving knowledge base for interview preparation.
+A focused, evolving knowledge base for interview preparation. Every note is organized by topic and carries its recorded date.
 
-## Sections
+## Behavioral Questions
 
-- [Behavioral Questions](./behavioral-questions/README.md)
-- [LeetCode Summary](./leetcode-summary/README.md)
-- [Project & Leadership Experience](./project-and-leadership/README.md)
+- [Hiring Manager Preparation for eBay Goldin MTS 2](./behavioral-questions/2026-11-13-hiring-manager-preparation.md)
 
-Each topic should capture the key idea, an interview-ready explanation, mistakes or lessons learned, and follow-up practice where useful.
+## LeetCode Summary
+
+- [240. Search a 2D Matrix II](./leetcode-summary/2026-11-13-0240-search-a-2d-matrix-ii.md)
+- [1038. Binary Search Tree to Greater Sum Tree](./leetcode-summary/2026-11-13-1038-bst-to-greater-sum-tree.md)
+
+## Project & Leadership Experience
+
+- [eBay Goldin MTS 2 Interview Context](./project-and-leadership/2026-11-13-ebay-goldin-mts2-interview-context.md)
+- [Goldin Marketplace System-Design Themes](./project-and-leadership/2026-11-13-goldin-marketplace-system-design.md)
