@@ -1,0 +1,39 @@
+# 128. Longest Consecutive Sequence
+
+**Recorded:** 2026-11-14  
+**Original practice:** 2026-10-17
+
+## Pattern
+
+Store numbers in a Set; begin counting **only when `x-1` is absent**, meaning `x` starts a run.
+
+```js
+function longestConsecutive(nums) {
+  const values = new Set(nums);
+  let best = 0;
+  for (const start of values) {
+    if (values.has(start - 1)) continue;
+    let length = 1;
+    while (values.has(start + length)) length++;
+    best = Math.max(best, length);
+  }
+  return best;
+}
+```
+
+## Complexity
+
+Expected O(n) time and O(n) space. Each run is expanded only from its first element.
+
+## Past mistakes and feedback
+
+- **Observed:** Sorting produced O(n log n), violating the expected linear-time target.
+- **Observed:** Duplicate numbers and empty input required explicit handling in the earlier logic.
+- **Observed misconception:** This isn't a sliding-window problem on the original array; consecutiveness is by **numeric value**, independent of input order.
+
+## Points to improve
+
+1. State the “only starts of sequences” invariant before coding.
+2. Test `[100,4,200,1,3,2]`, `[1,2,0,1]`, `[]`, negative numbers.
+3. Explain expected Set complexity and what duplicates do to iteration.
+
