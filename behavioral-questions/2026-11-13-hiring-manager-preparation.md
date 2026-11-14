@@ -6,7 +6,7 @@
 
 Prepare concise STAR stories that demonstrate: (Situation, Task, Action, Result)
 
-- Measurable impact and ownership
+- Measurable impact and ownership (proven quantified result)
 - Leading through influence
 - Technical disagreement and conflict resolution
 - Decision-making under ambiguity
