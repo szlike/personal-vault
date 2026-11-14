@@ -45,3 +45,9 @@ An Elasticsearch 7→8 migration must check mapping templates, analyzer compatib
 3. Explain your real ES use: filtering, aggregations and migration validation.
 4. Practice `match`, `term`, `terms`, `range`, `bool/filter` with a small sample mapping.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Related interview preparation: September 2026.
+- **For follow-up:** Share [Elasticsearch — Analyzer, Tokenizer, text/keyword, match/term](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-elasticsearch-analyzers-fields-and-queries.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

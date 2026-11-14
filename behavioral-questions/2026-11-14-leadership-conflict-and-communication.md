@@ -45,3 +45,9 @@ Senior/Staff interviews reward visible technical judgment, influence without aut
 4. Make the conflict story show **listening, evidence, decision, and relationship afterward**.
 5. Practice a simulated interviewer pushing back twice; defend assumptions calmly and revise when evidence changes.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Technical Leadership, Conflict, Code Review, and Communication](https://github.com/szlike/personal-vault/blob/main/behavioral-questions/2026-11-14-leadership-conflict-and-communication.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

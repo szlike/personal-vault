@@ -40,3 +40,9 @@ Proposed design: object upload → metadata job record → per-file work items �
 3. Explain partial batch failure, replay granularity, poison record isolation and progress tracking.
 4. Practice how to maintain order while increasing consumer concurrency.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Rate Limiting, Retries, Backpressure, and Batch Processing](https://github.com/szlike/personal-vault/blob/main/system-design/2026-11-14-rate-limiting-retries-backpressure-and-batching.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

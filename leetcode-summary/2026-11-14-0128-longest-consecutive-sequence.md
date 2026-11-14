@@ -37,3 +37,9 @@ Expected O(n) time and O(n) space. Each run is expanded only from its first elem
 2. Test `[100,4,200,1,3,2]`, `[1,2,0,1]`, `[]`, negative numbers.
 3. Explain expected Set complexity and what duplicates do to iteration.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-17.
+- **For follow-up:** Share [128. Longest Consecutive Sequence](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0128-longest-consecutive-sequence.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

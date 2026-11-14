@@ -42,3 +42,9 @@ A recursive palindrome attempt can recompute the same `(left,right)` range expon
 3. Compare brute force O(2ⁿ), memoized state count and bottom-up DP.
 4. Dry-run capacity 5 with items `(weight,value)=(2,3),(3,4),(4,5)`.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–October 2026.
+- **For follow-up:** Share [Dynamic Programming, Memoization, and 0/1 Knapsack](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-dynamic-programming-and-knapsack.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

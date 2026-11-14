@@ -38,3 +38,9 @@
 4. Draw arrows for commands and data separately; state consistency per operation.
 5. Review one bad design answer per week and rewrite it as a one-page design doc.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [System Design Interview Framework — Diagram First](https://github.com/szlike/personal-vault/blob/main/system-design/2026-11-14-system-design-interview-framework.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

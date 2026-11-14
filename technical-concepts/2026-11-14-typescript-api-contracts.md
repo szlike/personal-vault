@@ -33,3 +33,9 @@ This is a suggested explanation; the exact schema/codegen tools used on your pro
 2. Explain client/server release skew and how you avoid breaking older consumers.
 3. Prepare a concrete invalid payload and how it gets handled.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Related application: GC AI, 2026-10-26.
+- **For follow-up:** Share [TypeScript Contracts Across Frontend and Backend](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-typescript-api-contracts.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

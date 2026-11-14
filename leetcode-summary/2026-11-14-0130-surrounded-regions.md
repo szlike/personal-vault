@@ -44,3 +44,9 @@ O(rows × cols) time, up to O(rows × cols) stack space.
 2. Test all-O, all-X, single-row, single-column and nested regions.
 3. If using encoded IDs, prove uniqueness and decode rules; otherwise use `[row,col]` pairs.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-19.
+- **For follow-up:** Share [130. Surrounded Regions](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0130-surrounded-regions.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

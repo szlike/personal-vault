@@ -39,3 +39,9 @@ The product serves a comparatively small set of internal users but supports busi
 4. State two trade-offs: real-time consistency vs freshness; shared state simplicity vs widget isolation.
 5. Bring one real production bug and the instrumentation that exposed it.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Citi Visualization Platform and React Performance Deep Dive](https://github.com/szlike/personal-vault/blob/main/project-and-leadership/2026-11-14-citi-visualization-and-react-performance.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -40,3 +40,9 @@ HTTP request → filter/authentication → controller/validation → service/bus
 4. Compare a DB transaction with a cross-service workflow and the purpose of outbox.
 5. Prepare a REST error-handling example with retries/idempotency.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original preparation: 2026-09-11; revisited 2026-10-29.
+- **For follow-up:** Share [Spring Boot — IoC, Beans, Transactions, and REST](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-spring-boot-transactions-and-rest.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

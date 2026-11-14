@@ -41,3 +41,9 @@ Java: statically typed, JVM execution, true multi-threaded shared-memory workloa
 3. Use your dashboard story to demonstrate an actual profiler-driven optimization.
 4. Answer Java-vs-JavaScript in 45 seconds, anchored in a concrete service vs UI example.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original frontend interview discussion: 2026-09-16.
+- **For follow-up:** Share [React Rendering, State Ownership, and JavaScript Fundamentals](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-react-state-rendering-and-javascript.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

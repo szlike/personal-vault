@@ -43,3 +43,9 @@ O(n) time; O(n) queue/output space in worst case. A head index avoids repeated `
 2. Dry-run empty tree, single node, sparse tree, one-sided chain.
 3. Distinguish tree traversal (no cycles in normal input) from graph BFS (visited set needed).
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-18.
+- **For follow-up:** Share [102. Binary Tree Level Order Traversal](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0102-binary-tree-level-order-traversal.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

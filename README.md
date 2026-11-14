@@ -149,3 +149,9 @@ The following notes supplement the dated practice records above. Each includes a
 - [WoW Imitation Learning — Gameplay Recorder and Dataset Design](./ai-learning/2026-11-14-wow-imitation-learning-gameplay-recorder.md)
 - [Personal AI Journal — Summarization and Useful Insights](./ai-learning/2026-11-14-personal-ai-journal-tool.md)
 - [Enterprise RAG, Agents, and AI Evaluation](./ai-learning/2026-11-14-enterprise-rag-agents-and-evaluation.md)
+
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI), with earlier notes attributed to their original assistant where recorded.
+- **Source of truth:** The linked Markdown files in this repository and the interview-practice discussions they summarize. These notes are not verbatim conversation transcripts.
+- **For follow-up:** Share a note's GitHub link or repository path with ChatGPT and ask for a deeper explanation, mock interview, or updated feedback.

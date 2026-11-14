@@ -44,3 +44,9 @@ class TimeMap {
 2. Dry-run timestamps 1,4,7 and queries 0,1,3,4,10.
 3. Write a rightmost-valid binary-search template from memory.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-18.
+- **For follow-up:** Share [981. Time Based Key-Value Store (TimeMap)](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0981-time-based-key-value-store.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.
