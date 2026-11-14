@@ -1,4 +1,4 @@
-# Hiring Manager Preparation for eBay Goldin MTS 2
+# Hiring Manager Preparation (Structured Answer)
 
 **Recorded:** 2026-11-13
 
