@@ -1,4 +1,4 @@
-# Hiring Manager Preparation (Structured Answer)
+# Hiring Manager Preparation for eBay Goldin MTS 2
 
 **Recorded:** 2026-11-13
 
@@ -25,6 +25,9 @@ Connect each story to your scope, technical judgment, collaboration, trade-offs,
 - **Claiming impact without evidence.** “Improved reliability” is incomplete unless you can state the baseline, the measure, and the time window. If an exact metric is unavailable, use a bounded, honest qualitative result and say how it was observed.
 - **Making conflict sound frictionless.** “We aligned” hides the hard part. Explain the competing goals, how you listened or changed your view, the decision mechanism, and what happened afterward.
 - **Turning a setback into a polished success.** The learning story is credible only when it names the missed signal, your responsibility, the corrective action, and the prevention mechanism.
+- **Team Fit round, eBay, Sep 28 (Arun Selvaraj):** Arun asked twice whether he leans frontend or backend. Robin did not use his prepared stories and leaned on live answers instead. Fix: anchor the answer in the chosen framing every time — full-stack, 60% frontend / 40% backend career-weighted, Citi day-to-day ~70% backend — instead of answering it fresh each time.
+- **Shopify intro call, Oct 5 (Justin Kim):** Robin had not read the candidate guide HR sent. The guide discussion was skipped and the silence was awkward. Standing rule from this: proactively flag HR-sent prep materials and checklists the day before, not the day of.
+- **Behavioral stories, Sep 27:** He nearly re-presented a not-yet-built DB failover (3 retries, then DB write plus email alert) as finished work, and caught himself. Rule: every resume line is a promise of interview depth — mark built vs planned explicitly in every story.
 
 ## Improvements and practice
 

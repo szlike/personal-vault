@@ -1,0 +1,51 @@
+# 200. Number of Islands
+
+**Recorded:** 2026-10-11
+
+## Problem
+
+Count the islands in a grid of land and water cells. Land cells connected up, down, left, or right form one island. LeetCode problem 200.
+
+## Pattern
+
+Depth-first search (DFS) flood fill. Scan every cell in the grid. When an unvisited land cell is found, count one island and flood fill from that cell to mark the whole island as visited.
+
+## Attempts
+
+Three attempts on October 10 to 11.
+
+Attempt 1 had four bugs:
+
+- There was no outer scan. The code only called depth-first search from cell (0, 0), so islands anywhere else in the grid were never found.
+- `Array(width).fill(Array(height))` created one shared inner array, so writing to one row changed every row. This is the shared-reference bug.
+- The search used 8-directional adjacency, but the problem counts only the 4 directions: up, down, left, and right.
+- The cell types were mixed up. The grid holds the strings `'0'` and `'1'`, not the numbers 0 and 1, and the comparisons did not match.
+
+Attempt 2 had two bugs:
+
+- The inner loop read `for (let b = 0; a < lenY; b++)`. The loop condition tested the wrong variable, `a` instead of `b`, so the loop never ended. This caused an infinite loop.
+- The function computed the count but never returned it. The `return count` line was missing.
+
+Attempt 3 fixed the bugs above. One piece of dead code was left behind: an unused `visited = {}` object that nothing reads.
+
+A breadth-first search (BFS) version was walked through afterwards.
+
+## Complexity
+
+- Time: each cell is visited once, so the time grows with the number of cells in the grid.
+- Extra space: the recursion stack grows with the size of the largest island in the depth-first search version.
+
+## Key insight
+
+The outer scan is what finds every island. The flood fill only marks one island. Without the scan, only the island touching the starting cell is counted.
+
+## Past mistakes & points to improve
+
+- October 10, attempt 1: no outer scan. Fix: always scan the full grid and start a flood fill from each unvisited land cell.
+- October 10, attempt 1: `Array(width).fill(Array(height))` shared one inner array across all rows. Fix: build each row as a fresh array.
+- October 10, attempt 1: 8-directional adjacency. Fix: read the problem statement first and use only the directions it allows, which is 4 directions here.
+- October 10, attempt 1: string cells compared as numbers. Fix: check the grid's value types in the constraints and stay consistent.
+- October 10, attempt 2: loop condition used the wrong variable (`a < lenY` in a loop over `b`), causing an infinite loop. Fix: the loop condition must test the loop variable itself.
+- October 10, attempt 2: missing `return count`. Fix: the function must return its result at the end, not only compute it.
+- October 11, attempt 3: dead `visited = {}` left behind after the fix. Fix: remove unused variables when the design changes.
+- Standing rule from this problem: do the 60-second re-read ritual before submitting, reading every line top to bottom and asking what each line does. When one bug is fixed, sweep the function for sibling bugs of the same kind.
