@@ -26,3 +26,7 @@ On the same day, Robin nearly re-presented a database (DB) failover design as fi
 
 - The near-miss with the database failover story is the rule, not the exception. Every resume line is a promise of interview depth, so mark built work and planned work explicitly in every story. If a design was planned but never built, say so in the first sentence.
 - The Elasticsearch story is graded A minus, which is strong, but the grade depends on the details being true. Keep the numbers attached to the story (10 nodes, 5 primary and replica pairs, 5 zero-loss Kafka products, 10 reindexable products) and do not round them up or embellish them under pressure.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -26,3 +26,7 @@ The border is the starting point, not the inside. A region is safe exactly when 
 ## Past mistakes & points to improve
 
 - None outstanding. This is banked as a clean solve. The inversion pattern is the takeaway: when a problem asks which regions are enclosed, flood fill from the outside in and flip what remains.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

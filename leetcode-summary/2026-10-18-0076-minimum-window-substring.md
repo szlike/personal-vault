@@ -21,3 +21,7 @@ This problem takes the LeetCode 438 machinery and makes the window breathe inste
 
 - None yet. No attempt was made, so there are no mistakes to record. The attempt itself is the open item.
 - Status: OPEN. Hints only were given on October 18, and no attempt from him was found through November 13.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

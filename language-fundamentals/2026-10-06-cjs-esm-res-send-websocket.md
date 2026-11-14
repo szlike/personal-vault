@@ -35,3 +35,7 @@ On October 8, the CodeSignal project task "Milky Way Messenger" was reviewed. Fe
 - Know the streaming trio cold: `res.write` sends chunks, `res.end` finishes the response, `res.send` is one-shot. Say the three out loud with their roles before answering any streaming question.
 - Never dismiss a gap that an interviewer caught. Reframe it honestly instead: state plainly what your daily work is and is not, and do not claim the gap does not matter.
 - For module systems, be able to say in one sentence each how CJS (CommonJS) and ESM (ECMAScript Modules) load and export, and why mixing them breaks.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

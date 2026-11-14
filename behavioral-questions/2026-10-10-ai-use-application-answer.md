@@ -20,3 +20,7 @@ This is the same framing as the Team Fit answer given to Arun Selvaraj at eBay o
 
 - The first drafts were too long and needed 3 rounds of shortening. Keep the one-paragraph version ready before the next application, so there is no need to draft it under time pressure.
 - The framing must stay the same in every setting. If the application answer says AI writes 80 percent of the code and the interview answer says something different, the inconsistency becomes the story. Use the same sentence everywhere.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

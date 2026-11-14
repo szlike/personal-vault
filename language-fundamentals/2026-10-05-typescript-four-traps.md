@@ -26,3 +26,7 @@ When a variable is narrowed inside a closure (a function that captures a variabl
 
 - None outstanding. All four traps were closed with compiler evidence, and the cheat sheet was saved.
 - Keep the habit that closed this drill: when an answer feels wrong, ask for proof from the compiler instead of accepting it.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

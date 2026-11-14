@@ -34,3 +34,7 @@ OPEN. The enforcement question is the open weak spot in this story.
 
 - The enforcement question was dodged twice in the October 4 to 6 mock sessions. Do not dodge it again. Own the convention-not-construction answer directly: the rule existed as a team convention, the code did not enforce it, and that was a known trade-off. A direct answer about a real weakness is stronger than a dodge that invites a third question.
 - Keep the built versus planned line sharp. Error replay was planned, never built. Say that in the first sentence whenever the framework's purposes are listed.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

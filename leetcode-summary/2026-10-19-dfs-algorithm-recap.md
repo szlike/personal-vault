@@ -9,3 +9,7 @@ Depth-First Search, restated on request on screen day, 2026-10-19. The recap use
 ## Past mistakes & points to improve
 
 - None. This was a refresher only, and no new mistake surfaced.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

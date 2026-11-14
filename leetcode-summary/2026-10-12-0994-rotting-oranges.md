@@ -48,3 +48,7 @@ Separate the counting scan from the search. First scan the grid, count the fresh
 - October 10, attempt 2: no two-phase restructure. Fix: scan and collect first, then run the breadth-first search. Never run the main algorithm inside the counting scan.
 - October 12, redo: `head++` after a level must be `head += loop`, because `loop` cells were processed, not one. Fix: advance the queue head by the number of cells actually processed.
 - Standing rule from this problem: separate the counting scan from the breadth-first search, and never reuse a value (0) that already means something else as a visited marker.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

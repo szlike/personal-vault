@@ -39,3 +39,7 @@ After writing, before running, read every line top to bottom and ask what the li
 ## Past mistakes & points to improve
 
 - Every item in this checklist is a bug actually shipped in the October 9 to 11 prep sessions. The checklist itself is the pre-submit ritual: run it before submitting any grid breadth-first search or depth-first search solution, and when a new bug appears in a session, add it here so the same mistake is caught before it ships again.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

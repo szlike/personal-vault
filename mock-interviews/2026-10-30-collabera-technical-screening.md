@@ -17,3 +17,7 @@ Still unknown. It is Robin's to volunteer, not to chase. The salary band is also
 ## Past mistakes & points to improve
 
 - No mistakes are recorded for the round itself. The open item is the unknown outcome, which stays open until Robin volunteers it.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

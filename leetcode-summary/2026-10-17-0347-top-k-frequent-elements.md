@@ -19,3 +19,7 @@ Count how many times each number appears. Create one bucket per frequency value,
 
 - The bucket-sort version was already O(n), but it allocated `n + 1` buckets. Allocating `maxFreq + 1` buckets instead, sized to the actual maximum frequency, cut the runtime from 62.8 ms to 15.6 ms on n = 200,000, about a 4x improvement.
 - Size buckets to the actual max frequency, not the input length.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

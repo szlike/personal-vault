@@ -25,3 +25,7 @@ First pass grade D on correctness. The redemption came from moving the aggregati
 - Find the hard scale path first. Before drawing anything, ask where the volume actually lands: reads or writes, and at what rate.
 - Never answer a read-heavy aggregation question with a per-request database query. If the query touches billions of events, the aggregation must happen on the write path and the read must serve pre-computed results.
 - Prefer per-minute buckets plus a heap for arbitrary windows over a shared cache. Partition by the item key instead of introducing shared state that every reader must coordinate through.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

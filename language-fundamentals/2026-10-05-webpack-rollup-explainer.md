@@ -14,3 +14,7 @@ In development, a tool like Hot Module Replacement (the feature that swaps a cha
 
 - Robin's complaint from this session: terse parenthetical asides lose him. The example was "Production still bundles (via Rollup)", which says almost nothing about what actually happens.
 - Standing rule from this session: use full sentences, assume no context, and expand every acronym on first use. When explaining a tool, spell out the mechanism in plain words instead of naming the tool inside parentheses.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -23,3 +23,7 @@ He asked "why part.pop()" and "what is backtracking". The concept needed the maz
 ## Past mistakes & points to improve
 
 - Every mutation in backtracking must be undone before the next branch runs. Arrays need `pop` to undo a push. A mutated primitive poisons only its sibling branch, so it also has to be restored. When a backtracking solution misbehaves, check the undo step first.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -26,3 +26,7 @@ The area of an island is just a count collected during the flood fill. The trave
 ## Past mistakes & points to improve
 
 - October 11, breadth-first search rewrite: `return` used instead of `continue` inside the neighbor loop. Fix: `return` exits the whole function, while `continue` skips only one neighbor. Re-check every early exit inside a neighbor loop, and remember this is the same bug class that appeared in Rotting Oranges, so it is a repeat, not a new mistake.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

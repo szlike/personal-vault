@@ -156,3 +156,7 @@ First, take Tier 1 items 1 to 4 (HashMap, ConcurrentHashMap, synchronized versus
 - Trap to carry into the interview: volatile does not guarantee atomicity. The answer to that question is always no.
 - Trap to carry into the interview: double-checked locking without volatile is worthless. The volatile on the instance field is the point of the question.
 - For the garbage collection answer, check which collector the Elasticsearch service and the Kafka consumer use in production, and make the answer personal instead of reciting G1 (Garbage First) from a guide.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

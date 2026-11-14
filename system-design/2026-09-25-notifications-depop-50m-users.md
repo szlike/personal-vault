@@ -34,3 +34,7 @@ Grade B-, rough start and strong finish. The finish was strong because the archi
 - Diagram first, details second. Draw the full flow (API, service, Kafka, worker, push, and the stores) before spending time on scale estimates for any single part.
 - A claimed strength must be explainable cold. Idempotency was on the resume as a Kafka strength but could not be explained when asked, so rehearse a one-sentence definition plus the mechanism for every claimed strength.
 - Name the crash hole when presenting an outbox or dedup design. The crash between insert and push is a real failure mode, and naming it shows the design was thought through.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

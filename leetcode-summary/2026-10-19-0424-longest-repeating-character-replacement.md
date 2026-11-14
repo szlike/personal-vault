@@ -26,3 +26,7 @@ Keep a window and a count of each character inside it. Track `maxFreq`, the coun
 - A lazy `maxFreq--` on shrink hangs forever: on "ABAB" with k = 1 the window never exits after 100,000 shrinks.
 - Shrink-step bookkeeping rule: uncount the departing leftmost character, never the newcomer. Phantom counts inflate the validity check against a ghost window while the length uses the real one.
 - Status: OPEN. The corrected version was not re-pasted or verified after October 19, so re-verify it before treating this problem as done.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

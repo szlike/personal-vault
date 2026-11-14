@@ -22,3 +22,7 @@ The chosen framing is full-stack, 60 percent frontend and 40 percent backend whe
 
 - The frontend-or-backend question came up twice in one round, and each time it was answered fresh instead of from a prepared line. Anchor the answer in the chosen framing every time: full-stack, 60 percent frontend and 40 percent backend career-weighted, with Citi day-to-day at about 70 percent backend. Say the same sentence in every round so the story does not drift.
 - Prepared stories went unused in this round. Live answers worked, but a prepared story is stronger than an improvised one. Bring at least two stories into the room and use them when the topic fits instead of answering from scratch.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -21,3 +21,7 @@ Animate the `transform` and `opacity` properties, not `top`, `left`, or `width`.
 ## Past mistakes & points to improve
 
 - None outstanding. This was a clean concept session with no mistakes to record.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

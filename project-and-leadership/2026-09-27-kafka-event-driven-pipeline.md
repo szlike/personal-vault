@@ -20,3 +20,7 @@ Robin has NOT operated Kafka or Cassandra directly. The internals of Kafka and C
 
 - Keep every Kafka answer anchored to the real pipeline: partitions, idempotency, and time-window aggregation. Start from what was actually built, then say clearly where the knowledge is learned rather than lived.
 - Bluffing learned internals as experience is the fastest way to fail the Architecture round. When a question goes past the real pipeline, say so plainly and explain the concept as a concept, not as something that was operated in production.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -13,3 +13,7 @@ This was pasted on the morning of the Pinterest tech screen on 2026-10-19 as a w
 ## Past mistakes & points to improve
 
 - None outstanding. This was banked as a screen-day warm-up with no bug found.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

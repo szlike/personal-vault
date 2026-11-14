@@ -22,3 +22,7 @@ The guard on the repeat must be `lastIndex >= left`. Using `> left` instead miss
 - Both early solutions were too slow. The first was O(n cubed): it used `str.includes` on every substring and copied strings. The second was O(n squared): it used `temp.indexOf` plus rewind arithmetic. The fix is one pass with a map from each character to its last index.
 - The `>=` in the guard is load-bearing. A repeat exactly at the left edge still counts as a repeat inside the window, so `> left` silently lets it through.
 - Always measure the final window after the loop ends. The trailing window is never measured inside the loop, so skipping that step loses the answer when the longest substring runs to the end of the string.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

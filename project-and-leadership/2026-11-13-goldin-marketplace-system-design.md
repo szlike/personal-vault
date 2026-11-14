@@ -41,3 +41,7 @@ Prioritize correctness, traceability, idempotency, resilience, and clear custome
 3. For each asynchronous workflow, name the idempotency key, durable record, retry policy, dead-letter/reconciliation process, and user-visible status.
 4. Make trust measurable: bid acceptance latency, duplicate-action rate, reconciliation lag, dispute rate, provenance-completeness rate, and time to restore an incorrect state.
 5. Rehearse trade-offs between strong consistency for scarce inventory and eventual consistency for search, analytics, and notifications.
+
+## Source
+
+The session-specific bullets in "Past mistakes and lessons" were added by Copper bot from Robin's September–October 2026 practice sessions. Ask Copper bot for more detail on any of them.

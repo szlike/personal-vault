@@ -16,3 +16,7 @@ The first reconstruction framed the objective as minimum riding distance. He cau
 
 - Provenance discipline: reconstructed material must be marked as reconstructed in the same message, honestly, and kept separate from sourced material. He correctly demanded "did you make up anything?" and got an honest accounting of what was reconstructed and what was sourced. Keep doing that check on every reconstructed question.
 - No coded solution was found in the transcript, so this problem is still open. The next step is to code a solution against the reframed objective and paste the attempt.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

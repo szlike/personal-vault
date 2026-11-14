@@ -25,3 +25,7 @@ OPEN. Still the weakest Architecture answer.
 - Own the convention-not-construction answer directly instead of dodging. Say: "Enforced by convention. Here is the failure mode, and here is the signature change that would close it." A direct admission with a concrete fix is stronger than an evasion.
 - Rehearse the exact sentence before the next Architecture round, because the enforcement question is the predictable follow-up to any backdoor admission.
 - Do not dodge a question twice. The first dodge is a hesitation; the second dodge becomes the story of the round.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

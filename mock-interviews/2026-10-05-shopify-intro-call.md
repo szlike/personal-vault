@@ -20,3 +20,7 @@ Rejection on October 14, 2026, via Edna Delgado Avila, Shopify Technical Recruit
 
 - The standing rule from this call: proactively flag HR-sent preparation materials and checklists the day before an interview, not the day of. The guide arrived before the call, and nobody checked whether it had been read. A day-before check would have caught it.
 - Never walk into an intro call without reading what HR sent. The guide is part of the interview, even when the call itself is only 30 minutes.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

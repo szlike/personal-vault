@@ -52,3 +52,7 @@ Int-encoding (`x * n + y`) trades per-cell allocation plus garbage collection fo
 - Benchmark against your corrected code. Comparing a fast solution against your own buggy version nearly taught the wrong lesson, that `shift()` was fine.
 - LeetCode milliseconds at tiny constraints are noise. Trust the structure, not the number.
 - The scariest bug class is `head++` instead of `head += loop`: correct answer, quadratic time, passes every test, dies in production. It was caught by counting, not by reading. When a solution feels slow, instrument the code and count, instead of reading it again.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

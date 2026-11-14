@@ -21,3 +21,7 @@ Final drill grade B. The A+ list given after the drill: specify the BFF (backend
 - State every choice as a trade-off, with a failure mode per component. A choice without a stated cost and a component without a stated failure mode both read as unexamined.
 - Quantify NFRs (non-functional requirements) and flag assumed constants. If a number is assumed, say it is assumed, so the interviewer can correct it instead of discovering it later.
 - Actually do the deep dive. After the overview, pick the hard component and go deep on it instead of staying at the high level.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

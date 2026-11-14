@@ -14,3 +14,7 @@ Use two pointers, one on each string. Walk through the longer string once and ad
 ## Past mistakes & points to improve
 
 - On 2026-10-10, the complexity was stated as \(O(n^2)\). That was wrong. The two-pointer scan is \(O(n + m)\) because each pointer moves forward at most once. State complexity from the loop structure, not from intuition. Count how far each pointer can move, then add the bounds.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

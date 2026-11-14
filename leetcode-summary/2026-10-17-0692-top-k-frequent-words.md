@@ -19,3 +19,7 @@ Count how many times each word appears. Sort the words by frequency from highest
 
 - The frequency sort was right, but the tie-break was broken. The comparator `return a > b` returns a boolean, not a number, so the sort order came out wrong. On ["banana","apple","banana","apple","cherry"] with k = 3, the code gave ["banana","apple","cherry"] instead of the correct ["apple","banana","cherry"].
 - Sort comparators must return numbers, never booleans. Use subtraction for numbers, or `localeCompare` for strings.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

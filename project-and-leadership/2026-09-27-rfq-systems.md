@@ -13,3 +13,7 @@ Named, not drilled. This story was listed among the flagship stories, but it has
 ## Past mistakes & points to improve
 
 - No mistakes are recorded for this story, because it was never drilled. The open item is that it has never been put into STAR form, which means Situation, Task, Action, Result. Before using it in an interview, build the STAR version: the situation and the problem, the task Robin owned, the actions he took with the team of about 5 developers, and the measurable result.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

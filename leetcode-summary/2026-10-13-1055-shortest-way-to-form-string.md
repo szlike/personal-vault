@@ -24,3 +24,7 @@ Calling `indexOf` from 0 on every character ignores order. A counter cannot fix 
 - The first attempt searched from index 0 every time, which ignores the order of the characters. The fix is a forward search with `indexOf(ch, p)` and a cursor that only moves forward.
 - The -1 marker idea was sound but undercounted: it pushed a marker without resolving the fresh index for the character that triggered the wrap.
 - Subsequence problems need a position cursor, not a count. A count can say how many characters matched, but it cannot say where the next match is allowed to start.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

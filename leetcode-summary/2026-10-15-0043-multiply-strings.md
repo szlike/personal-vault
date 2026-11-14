@@ -20,3 +20,7 @@ The canonical solution uses a result array. For each pair of digits `num1[i]` an
 - Two bugs in the first version. First, a crash: the final `reduce` blew the heap on large inputs. Second, corruption: a digit-string bug inside the loop.
 - The fixed version still failed one edge case: anything times 0 returned an empty string `""` instead of `"0"`. The line `"0".replace(/^0+/, '')` eats the only character, so the result is empty. Strip leading zeros only when the result has more than one character, or handle the all-zeros case separately.
 - This is the highest-risk bug class in the notes so far: a digit string must never become a loop count or a JavaScript number. Keep digits as strings or as single digits in an array, and convert only one digit at a time.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

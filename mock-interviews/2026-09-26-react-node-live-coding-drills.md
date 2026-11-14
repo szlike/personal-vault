@@ -35,3 +35,7 @@ The final version graded B plus. One nit remained: stale prompts never clear.
 - After a rename, sweep every reference. The `isValidated` rename left old references behind and produced a ReferenceError on render, which is a bug that a single search would have caught.
 - After a rewrite, re-check the exact bug that failed last time instead of assuming it is gone. The inverted `Array.isArray` logic survived rewrites unchanged, which means the rewrite was never tested against the last failure.
 - Framework habits cross over silently. `this.$refs` is Vue, not React. When switching frameworks in a drill, name the framework out loud before writing the first line.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

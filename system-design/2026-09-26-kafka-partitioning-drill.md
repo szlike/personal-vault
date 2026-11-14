@@ -16,3 +16,7 @@ Hot partitions and consumer scaling were covered: a hot key can overload one par
 
 - Justify partition count from throughput numbers, not from the number of distinct keys. Start from the message rate, divide by what one consumer can process, and let that set the partition count.
 - When a hot partition is possible, say so explicitly and name the mitigation (a better key, or splitting the hot key) instead of assuming keys spread evenly.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

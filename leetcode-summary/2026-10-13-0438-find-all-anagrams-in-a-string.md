@@ -25,3 +25,7 @@ Char-code sums are not a shortcut. They are lossy: "ad" and "bc" both sum to 197
 
 - The first version was O(n times m squared): it called `t.replace` for every character in every window. The fix is 26-slot count arrays with two O(1) updates per slide.
 - Never rescan the whole window to check for an anagram. Maintain a diff counter and update it on each slide instead.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

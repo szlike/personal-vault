@@ -21,3 +21,7 @@ Query-depth attacks are a risk: a deeply nested query can be expensive to resolv
 - Frame GraphQL as concept knowledge with the BFF (backend for frontend) analogy. The analogy is the honest way to show understanding: a GraphQL server plays the same role as a backend for frontend, with the client shaping the query.
 - Never present GraphQL as production experience. Production APIs are REST (representational state transfer), and claiming otherwise would be inventing experience.
 - When the N+1 problem comes up, name DataLoader in the same sentence. The problem without the fix reads as half an answer.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

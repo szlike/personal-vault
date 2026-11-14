@@ -20,3 +20,7 @@ Shard count 128 was used as the working number in the course.
 
 - State the rollup granularity ladder explicitly when designing time-series storage. Say minute to hour to day out loud, with what each level stores, instead of leaving the aggregation levels vague.
 - Name the TTL (time to live) policy for old data in the same pass. Expiry is part of the storage design, not an afterthought.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

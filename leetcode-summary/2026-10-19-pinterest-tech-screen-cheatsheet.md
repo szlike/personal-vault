@@ -13,3 +13,7 @@ What the interviewer actually asked on Oct 19 is unknown. The debrief file is st
 ## Past mistakes & points to improve
 
 - This is the consolidation artifact. Reuse its structure for future screens rather than rebuilding from scratch: pattern map, mistake checklist with measured cases, talk tracks, and a day-before and day-of plan.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

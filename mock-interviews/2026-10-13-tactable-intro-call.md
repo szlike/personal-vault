@@ -13,3 +13,7 @@ Tactable passed on October 21, 2026, saying Robin was "not the right overall fit
 ## Past mistakes & points to improve
 
 - None. There was no preparation gap, and the call was low-stakes by design. Nothing to fix here.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

@@ -11,3 +11,7 @@ Standard array-based min-heap, shown on request on screen day, 2026-10-19, at ab
 ## Past mistakes & points to improve
 
 - None yet. The open item is to attempt a heap problem, for example LeetCode 295 or LeetCode 23. No heap problem was ever attempted afterwards. LeetCode 347 and LeetCode 692 were solved with bucket sort and sorting instead, so heaps are still queued.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

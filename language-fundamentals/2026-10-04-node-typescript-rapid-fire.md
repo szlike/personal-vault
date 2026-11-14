@@ -39,3 +39,7 @@ In rapid-fire quizzes, Robin wants each question to carry its full code context 
 - Read the type literally. `{name: string}` is an object type, not the string type. When a type looks short, say out loud what each part of it means before answering.
 - Input and output blocking is fixed by asynchronous input and output, not by a worker pool. When a question is about blocking, first ask whether the work is input and output bound or CPU bound, then pick the tool.
 - Worker pools need a fixed size capped at the core count, reuse of workers across requests, and backpressure when the pool is full. Creating a worker per request is not a pool.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

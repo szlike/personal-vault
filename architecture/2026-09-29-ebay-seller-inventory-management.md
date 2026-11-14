@@ -25,3 +25,7 @@ Grade B.
 - Lead with the atomic write guard. The `UPDATE ... WHERE stock > 0` statement is the core of the design, so it belongs in the first minute, not buried after the read path.
 - Shard key and transaction boundary must be designed together. Choosing the shard key without checking what one transaction touches risks splitting a transaction across shards, where it can no longer be atomic.
 - Say out loud that reads may lag and why that is acceptable. The lag is safe only because the write guard, not the read, enforces the invariant.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

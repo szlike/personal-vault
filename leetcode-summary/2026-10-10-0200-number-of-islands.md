@@ -49,3 +49,7 @@ The outer scan is what finds every island. The flood fill only marks one island.
 - October 10, attempt 2: missing `return count`. Fix: the function must return its result at the end, not only compute it.
 - October 11, attempt 3: dead `visited = {}` left behind after the fix. Fix: remove unused variables when the design changes.
 - Standing rule from this problem: do the 60-second re-read ritual before submitting, reading every line top to bottom and asking what each line does. When one bug is fixed, sweep the function for sibling bugs of the same kind.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

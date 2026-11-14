@@ -34,3 +34,7 @@ Levels.fyi put MTS 2 at about CA$239,000 total compensation. MTS 1 was about CA$
 
 - The per-round notes live in their own files (Team Fit, seller dashboard, inventory management, Gleb fallout). Cross-reference them rather than repeating them here.
 - The loop's lesson is that the extra round exposed the Node.js honesty gap. Daily-driver claims must match reality. The Node.js worker-pool service was a proof of concept, never productionized, and the depth in the Sree round came from preparation drills, not daily production work. Frame it as preparation-drill depth, not as a daily driver.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

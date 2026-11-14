@@ -36,3 +36,7 @@ Connect each story to your scope, technical judgment, collaboration, trade-offs,
 3. For every claimed result, record the metric, baseline, timeframe, source of evidence, and your personal contribution. Remove numbers you cannot defend.
 4. Rehearse the follow-ups: “What would you do differently?”, “Who disagreed?”, “How did you know it worked?”, and “What was your specific role?”
 5. Tie only genuinely relevant stories to Goldin’s trust requirements—correctness, traceability, and customer confidence—rather than forcing company-specific language into every answer.
+
+## Source
+
+The session-specific bullets in "Past mistakes and lessons" were added by Copper bot from Robin's September–October 2026 practice sessions. Ask Copper bot for more detail on any of them.

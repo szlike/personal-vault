@@ -18,3 +18,7 @@ A loop that uses `var` and pushes a function into an array gives `3, 3, 3` when 
 
 - `var` in a loop shares one binding across all iterations. Use `let` for loop variables, or capture the value explicitly, so each iteration keeps its own copy.
 - When reasoning about execution order, first separate microtasks from macrotasks, then remember that the microtask queue drains fully before the next macrotask starts.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

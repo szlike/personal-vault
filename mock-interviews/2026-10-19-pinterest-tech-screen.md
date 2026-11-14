@@ -30,3 +30,7 @@ Rejection on October 20, 2026. The thread is closed.
 
 - The debrief was never captured. For future screens, write down the question within an hour of the round ending, while it is still fresh. A blank capture file means the preparation for the next round starts from nothing.
 - The morning preparation was solid, but preparation is not the same as capture. Do both: prep before the round, write down what was actually asked after it.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

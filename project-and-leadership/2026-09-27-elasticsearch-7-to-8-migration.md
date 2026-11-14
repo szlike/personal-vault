@@ -25,3 +25,7 @@ The migration completed with the data intact. The checksum report gave daily pro
 ## Past mistakes & points to improve
 
 - The resume bullet wording for this migration is still an open item. The story itself is solid and graded A minus, but the bullet on the resume has not been confirmed. Confirm the wording before the next application so the resume and the story match exactly.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.

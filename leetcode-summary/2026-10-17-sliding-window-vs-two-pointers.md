@@ -9,3 +9,7 @@ A sliding window is a special case of two pointers. Every sliding window uses tw
 ## Past mistakes & points to improve
 
 - Name the pattern from the movement rule, not from the shape of the code. If the two pointers always bound a single window, it is a sliding window. If they move by another rule, it is two pointers but not a sliding window.
+
+## Source
+
+Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.
