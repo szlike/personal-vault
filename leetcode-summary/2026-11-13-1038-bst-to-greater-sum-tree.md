@@ -2,6 +2,12 @@
 
 **Recorded:** 2026-11-13
 
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Current repository content and standard algorithmic reasoning for this problem. The mistakes and drills are inferred from the note’s documented lessons, not from inaccessible prior conversation history.
+
 ## Pattern
 
 Use reverse in-order traversal:

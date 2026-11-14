@@ -2,6 +2,12 @@
 
 **Recorded:** 2026-11-13
 
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Current repository content and interview-preparation guidance. This note does not claim access to private or unavailable prior conversations; add real interview feedback and examples as they become available.
+
 ## Interview loop
 
 - Hiring-manager round

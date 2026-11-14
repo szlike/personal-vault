@@ -2,6 +2,12 @@
 
 **Recorded:** 2026-11-13
 
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Current repository content and general marketplace system-design principles. The mistakes and drills are preparation guidance, not claims about an actual Goldin production system or inaccessible prior conversation history.
+
 ## Relevant domains
 
 - Real-time auction bidding, anti-sniping behavior, and audit trails

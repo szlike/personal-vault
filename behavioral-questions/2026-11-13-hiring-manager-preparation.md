@@ -2,6 +2,12 @@
 
 **Recorded:** 2026-11-13
 
+## Source
+
+**Prepared by:** Codex (OpenAI)
+
+**Basis:** Current repository content and interview-preparation guidance. This note does not claim access to private or unavailable prior conversations; refine it with your concrete examples, metrics, and interview feedback in future sessions.
+
 ## Focus
 
 Prepare concise STAR stories that demonstrate: (Situation, Task, Action, Result)
