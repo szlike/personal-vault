@@ -42,3 +42,9 @@ Partition-count vs consumer-count trade-off; ordering by entity; partition skew/
 3. State what application-level idempotency guarantees, then what Kafka itself guarantees.
 4. Practice describing `acks=all`, replication factor, ISR and producer retries without treating them as synonyms.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Kafka — Partitions, Consumers, Delivery, and Transactional Outbox](https://github.com/szlike/personal-vault/blob/main/system-design/2026-11-14-kafka-consumers-delivery-and-outbox.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -40,3 +40,9 @@ Replace “used” with a stronger claim only to the degree your actual implemen
 3. Keep citations/links to original entries so insights can be checked.
 4. Prepare a 30-second product answer and a three-minute architecture deep dive.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Related discussion: 2026-10-26 GC AI application.
+- **For follow-up:** Share [Personal AI Journal — Summarization and Useful Insights](https://github.com/szlike/personal-vault/blob/main/ai-learning/2026-11-14-personal-ai-journal-tool.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

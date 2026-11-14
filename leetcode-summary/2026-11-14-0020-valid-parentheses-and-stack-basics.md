@@ -34,3 +34,9 @@ Time O(n); extra space O(n) worst case.
 2. Dry-run empty input, `()[]{}`, `([)]`, `(((` and `]`.
 3. Connect ordinary stack matching to **monotonic** stacks: both use LIFO, but a monotonic stack also maintains value order.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: October 2026.
+- **For follow-up:** Share [20. Valid Parentheses and Stack Basics](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0020-valid-parentheses-and-stack-basics.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

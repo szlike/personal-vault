@@ -31,3 +31,9 @@ Insert 12 into `[10,7,5]` → append `[10,7,5,12]` → compare with parent 7 →
 3. Contrast bucket vs heap by complexity and input constraints.
 4. Trace sift-up/sift-down by hand during an interview.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-17/19.
+- **For follow-up:** Share [347. Top K Frequent Elements and Heap Fundamentals](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0347-top-k-frequent-and-heaps.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -41,3 +41,9 @@
 3. State equality contract without saying “equal hash codes imply equal objects.”
 4. Connect OOP choices to testability and maintainable service boundaries.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original preparation: 2026-09-11; reviewed 2026-10-29.
+- **For follow-up:** Share [Java OOP, Collections, HashMap, and Equality](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-java-oop-collections-and-hashmap.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

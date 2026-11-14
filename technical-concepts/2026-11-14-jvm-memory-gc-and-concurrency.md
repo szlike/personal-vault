@@ -50,3 +50,9 @@ Spring singleton beans can serve concurrent requests: do not store request-speci
 3. Explain safe mutable state in Spring controllers/services.
 4. Practice one JVM incident: growing heap, rising GC pauses, high CPU, and how you would investigate.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original preparation: 2026-09-11; revisited 2026-10-29.
+- **For follow-up:** Share [JVM Memory, Garbage Collection, and Concurrency](https://github.com/szlike/personal-vault/blob/main/technical-concepts/2026-11-14-jvm-memory-gc-and-concurrency.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

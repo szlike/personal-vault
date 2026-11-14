@@ -57,3 +57,9 @@ This is a proposed schema, **not** a claim that the recorder exists. Store raw e
 4. Separate data science experiments from deployment; check applicable game rules before any automation.
 5. Keep a web viewer lightweight: inspect a trajectory, timestamps, actions and visual context.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original discussion: 2026-11-11.
+- **For follow-up:** Share [WoW Imitation Learning — Gameplay Recorder and Dataset Design](https://github.com/szlike/personal-vault/blob/main/ai-learning/2026-11-14-wow-imitation-learning-gameplay-recorder.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

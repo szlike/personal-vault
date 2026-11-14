@@ -34,3 +34,9 @@ RFQ = request for quote. Prepare a real example showing requirement ambiguity, f
 3. Explain one real technical trade-off and how you obtained agreement.
 4. Prepare the question “Which part did **you** lead?” with a precise answer.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Elasticsearch Migration, Kafka Pipelines, and RFQ Ownership](https://github.com/szlike/personal-vault/blob/main/project-and-leadership/2026-11-14-elasticsearch-migration-kafka-and-rfq.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -57,3 +57,9 @@ Deliver each story in about two minutes: **Situation (15%) → Task (10%) → Ac
 4. Gather verifiable before/after measures; use qualitative outcomes honestly when metrics are unavailable.
 5. Practice anticipated probes: Why you? Who disagreed? What went wrong? What would you do differently?
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [STAR Story Bank — Ownership, Impact, Incidents, and Failure](https://github.com/szlike/personal-vault/blob/main/behavioral-questions/2026-11-14-star-story-bank.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -44,3 +44,9 @@ Maintain per-item counts at a suitable bucket resolution (e.g. seconds for secon
 4. Practice late events, duplicate delivery, hot keys, repartitioning and recovery.
 5. Do a 45-minute redo of the same prompt and time each phase.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original design discussion: 2026-09-04.
+- **For follow-up:** Share [Nubank Retrospective — Top-K Items Over Time Windows](https://github.com/szlike/personal-vault/blob/main/system-design/2026-11-14-nubank-top-k-sliding-and-historical-windows.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

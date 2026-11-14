@@ -45,3 +45,9 @@ Every palindrome has one middle character or middle gap. Expansion tests exactly
 3. Dry-run `''`, `'a'`, `'aa'`, `'abba'`, `'babad'`, `'abbca'`.
 4. Explain why successful expansion length is `right-left-1` after the final failed comparison.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-09-14; revisited 2026-10-19.
+- **For follow-up:** Share [5. Longest Palindromic Substring](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0005-longest-palindromic-substring.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -30,3 +30,9 @@
 4. **One project deep dive:** draw the dashboard/ES migration architecture from memory and answer operational failure questions.
 5. Record each new mistake with date, reproduction input, root cause, corrected invariant and next review date.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Interview Retrospectives — Nubank, Fitch, eBay, Pinterest](https://github.com/szlike/personal-vault/blob/main/behavioral-questions/2026-11-14-interview-retrospectives-and-practice-plan.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

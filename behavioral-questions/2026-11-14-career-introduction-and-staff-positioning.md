@@ -41,3 +41,9 @@ Personalize that to the actual job; do not memorise every sentence or imply all 
 - What part of the system failed before your change, and what did you measure afterward?
 - Why is your experience beyond a strong Senior frontend engineer?
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Career Introduction and Senior/Staff Positioning](https://github.com/szlike/personal-vault/blob/main/behavioral-questions/2026-11-14-career-introduction-and-staff-positioning.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

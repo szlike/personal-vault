@@ -38,3 +38,9 @@ Ingestion → durable processing → read model → WebSocket push. Maintain ser
 3. Explain failover, retries and replay during a Kafka consumer/Elasticsearch outage.
 4. Design WebSocket reconnect from last seen event ID or a full fresh snapshot.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Data Stores, Caching, Consistency, and Real-Time Pipelines](https://github.com/szlike/personal-vault/blob/main/system-design/2026-11-14-storage-caching-consistency-and-streaming.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

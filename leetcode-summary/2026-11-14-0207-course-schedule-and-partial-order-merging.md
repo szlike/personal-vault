@@ -49,3 +49,9 @@ O(V+E) time/space (plus storing output).
 3. Explain uniqueness vs existence; add cycle detection.
 4. Practice LC 207, LC 210, then Alien Dictionary / merge exercise.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-19 and 2026-10-25/26.
+- **For follow-up:** Share [207/210. Course Schedule and Merging Partial Orders](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0207-course-schedule-and-partial-order-merging.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

@@ -41,3 +41,9 @@ Time O(log(mn)), extra space O(1).
 3. Use `left <= right` and move bounds by ±1 to guarantee progress.
 4. Explain why the LC 74 precondition differs from LC 240.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-18.
+- **For follow-up:** Share [74. Search a 2D Matrix](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0074-search-a-2d-matrix.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

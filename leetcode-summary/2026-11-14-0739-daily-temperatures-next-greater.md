@@ -40,3 +40,9 @@ Next greater **value** stores values/indices depending on output requirements; n
 2. Dry-run `[73,74,75,71,69,72,76,73]`.
 3. Prove amortized O(n) despite nested `while`.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: October 2026.
+- **For follow-up:** Share [739. Daily Temperatures and Next Greater Element](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0739-daily-temperatures-next-greater.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

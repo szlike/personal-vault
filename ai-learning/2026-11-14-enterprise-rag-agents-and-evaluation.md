@@ -41,3 +41,9 @@ An agent is more than a chat interface: it plans or chooses steps and invokes to
 4. Distinguish deterministic workflow from agent autonomy; explain permission and reliability trade-offs.
 5. Practice a two-minute interview description and an operational failure scenario.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Enterprise RAG, Agents, and AI Evaluation](https://github.com/szlike/personal-vault/blob/main/ai-learning/2026-11-14-enterprise-rag-agents-and-evaluation.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

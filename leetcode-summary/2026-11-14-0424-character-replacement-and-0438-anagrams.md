@@ -45,3 +45,9 @@ function findAnagrams(s, p) {
 3. For 424, explain why length minus most-frequent count determines replacement cost.
 4. Practice boundary tests including `p` longer than `s`, equal lengths and repeated letters.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: October 2026.
+- **For follow-up:** Share [424/438. Sliding Window — Character Replacement and Anagrams](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0424-character-replacement-and-0438-anagrams.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

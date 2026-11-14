@@ -40,3 +40,9 @@
 3. Include an unsuccessful proposal or compromise and explain the learning.
 4. Bring evidence: design document, code-review convention or deployment metric where available.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Practice period: September–November 2026.
+- **For follow-up:** Share [Team Leadership, Code Review, and Developer Productivity](https://github.com/szlike/personal-vault/blob/main/project-and-leadership/2026-11-14-team-leadership-and-developer-productivity.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.

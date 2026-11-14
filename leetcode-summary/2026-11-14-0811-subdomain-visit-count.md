@@ -38,3 +38,9 @@ If each domain has `d` labels and length `L`, generating all suffix strings cost
 2. Verify repeated suffixes accumulate counts.
 3. Prefer straightforward code over optimizing before understanding the constraint.
 
+## Source
+
+- **Documentation assistant:** ChatGPT (OpenAI).
+- **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
+- **Discussion reference:** Original practice: 2026-10-19.
+- **For follow-up:** Share [811. Subdomain Visit Count](https://github.com/szlike/personal-vault/blob/main/leetcode-summary/2026-11-14-0811-subdomain-visit-count.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.
