@@ -22,6 +22,14 @@ The library also gave teams a clear convention for handling side effects, mitiga
 
 Several teams adopted the library, and we were able to send usage, timing, and error data to our central tracking platform.
 
+## Interview follow-up on adoption
+
+**Interview question:** Let’s talk about how BehaviorStore caught on. Pick one team that adopted it. What did they need before they were willing to try it, and what did you personally do to help them get started?
+
+After we adopted BehaviorStore on my team, I wrote the onboarding guide, ran internal demos, and presented it at our Innovation Day. I designed it so teams could start by adding one middleware to their existing Redux store. They could choose whether to follow the RxJS pipeline conventions strictly or keep their existing Redux patterns.
+
+Usage tracking drew interest at Innovation Day. Teams already needed to send usage data to a central platform, and the library gave them a consistent way to capture it.
+
 ## How it works
 
 The framework exports an Epic class. An epic has the signature (action$, state$) => action$, which means it takes a stream of actions and a stream of state, and returns a stream of actions. Each epic carries a description field, and epics are registered in a CONSTANT registry. Timers run around dispatch so the cost of each action is visible.
@@ -54,3 +62,5 @@ OPEN. The enforcement question is the open weak spot in this story.
 Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.
 
 The final interview answer comes from Robin’s eBay hiring manager interview practice on November 14, 2026. Codex helped polish the wording. Ask Codex for more detail about this answer.
+
+Codex polished the adoption follow-up from Robin’s eBay hiring manager interview practice.
