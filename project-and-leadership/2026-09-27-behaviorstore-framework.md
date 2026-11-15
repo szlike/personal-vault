@@ -8,6 +8,20 @@ behaviorStore is an in-house state-management framework built in 2023 for a data
 
 The framework is standalone. It extends Redux and RxJS only, and it was inspired by redux-observable and MobX.
 
+## Final interview answer
+
+**Interview question:** Tell me about a recent project you’re proud of. What problem were you solving, what was your specific role, and what was the outcome?
+
+I led the development of an internal state management library that several other teams later adopted.
+
+As our application grew, tracing a single button click meant jumping across files to follow API calls, data transformations, and UI updates. We also wanted a consistent way to see which features people used, how long they took, and where they failed.
+
+I built the library with Redux and RxJS, inspired by Redux Observable. We gave each user workflow a clear entry point and a pipeline engineers could follow. That also gave us a standard place to handle errors and record when a workflow started and finished.
+
+The library also gave teams a clear convention for handling side effects, reducing the risk of mistakes.
+
+Several teams adopted the library, and we were able to send usage, timing, and error data to our central tracking platform.
+
 ## How it works
 
 The framework exports an Epic class. An epic has the signature (action$, state$) => action$, which means it takes a stream of actions and a stream of state, and returns a stream of actions. Each epic carries a description field, and epics are registered in a CONSTANT registry. Timers run around dispatch so the cost of each action is visible.
@@ -38,3 +52,5 @@ OPEN. The enforcement question is the open weak spot in this story.
 ## Source
 
 Prepared by Copper bot from Robin's interview practice sessions, September–November 2026. Ask Copper bot for more detail on anything in this note.
+
+The final interview answer comes from Robin’s eBay hiring manager interview practice on November 14, 2026. Codex helped polish the wording. Ask Codex for more detail about this answer.
