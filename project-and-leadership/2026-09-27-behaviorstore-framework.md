@@ -32,6 +32,12 @@ I designed it to be easy to try. Teams could add a single middleware to their ex
 
 Usage tracking drew the most interest. Every UI project needed to send usage data to our central platform, and the library gave teams a consistent way to capture it. Each project could use the built-in tracking instead of building its own. Several engineers reached out with questions after the demo.
 
+### Interview follow-up on demo feedback
+
+**Interview question:** What’s one piece of feedback you got during those demos, and what did you change because of it?
+
+During a demo, I asked engineers whether BehaviorStore should enforce our convention of dispatching a workflow’s Redux updates only after processing finished. We talked through cases like usage tracking, where we still needed to record events while the workflow was running. That discussion led us to propose an opt-in strict mode. Teams could choose enforcement when they registered the middleware.
+
 ## How it works
 
 The framework exports an Epic class. An epic has the signature (action$, state$) => action$, which means it takes a stream of actions and a stream of state, and returns a stream of actions. Each epic carries a description field, and epics are registered in a CONSTANT registry. Timers run around dispatch so the cost of each action is visible.
@@ -65,4 +71,4 @@ Prepared by Copper bot from Robin's interview practice sessions, September–Nov
 
 The final interview answer comes from Robin’s eBay hiring manager interview practice on November 14, 2026. Codex helped polish the wording. Ask Codex for more detail about this answer.
 
-Codex polished the adoption follow-up from Robin’s eBay hiring manager interview practice.
+Codex polished the adoption and demo feedback follow-ups from Robin’s eBay hiring manager interview practice.
