@@ -14,7 +14,7 @@ The framework is standalone. It extends Redux and RxJS only, and it was inspired
 
 I led the development of an internal state management library that several other teams later adopted.
 
-As our application grew, tracing a single button click meant jumping across files to follow API calls, data transformations, and UI updates. We also wanted a consistent way to see which features people used, how long they took, and where they failed.
+We are talking about a UI application and as our application grew, tracing a single button click meant jumping across files to follow API calls, data transformations, and UI updates. We also wanted a consistent way to see which features people used, how long they took, and where they failed.
 
 I built the library with Redux and RxJS, inspired by Redux Observable. We gave each user workflow a clear entry point and we draw the boundary on where the workflow finish. This library also provide a centrialized  pipeline with steps that engineers could follow. That also gave us a standard place to handle errors and record performance.
 
