@@ -18,7 +18,7 @@ We are talking about a UI application and as our application grew, tracing a sin
 
 I built the library with Redux and RxJS, inspired by Redux Observable. We gave each user workflow a clear entry point and we draw the boundary on where the workflow finish. This library also provide a centrialized  pipeline with steps that engineers could follow. That also gave us a standard place to handle errors and record performance.
 
-The library also gave teams a clear convention for handling side effects, mitigate the risk of mistakes.
+The library also gave teams a clear convention for handling side effects, mitigate the risk of misuse.
 
 Several teams adopted the library, and we were able to send usage, timing, and error data to our central tracking platform.
 
