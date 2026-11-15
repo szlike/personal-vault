@@ -26,9 +26,11 @@ Several teams adopted the library, and we were able to send usage, timing, and e
 
 **Interview question:** Let’s talk about how BehaviorStore caught on. Pick one team that adopted it. What did they need before they were willing to try it, and what did you personally do to help them get started?
 
-After we adopted BehaviorStore on my team, I wrote the onboarding guide, ran internal demos, and presented it at our Innovation Day. I designed it so teams could start by adding one middleware to their existing Redux store. They could choose whether to follow the RxJS pipeline conventions strictly or keep their existing Redux patterns.
+We first rolled out BehaviorStore across several UI repositories on my team. I wrote an onboarding guide and ran demos within our department. I used feedback from those demos to make the library easier to use, then presented it at our organization-wide Innovation Day.
 
-Usage tracking drew interest at Innovation Day. Teams already needed to send usage data to a central platform, and the library gave them a consistent way to capture it.
+I designed it to be easy to try. Teams could add a single middleware to their existing Redux store and use a configuration flag to choose whether to follow the stricter RxJS pipeline conventions or keep their existing Redux patterns.
+
+Usage tracking drew the most interest. Every UI project needed to send usage data to our central platform, and the library gave teams a consistent way to capture it. Each project could use the built-in tracking instead of building its own. Several engineers reached out with questions after the demo.
 
 ## How it works
 
