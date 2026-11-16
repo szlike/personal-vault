@@ -31,6 +31,19 @@ The product serves a comparatively small set of internal users but supports busi
 - **Search/aggregation:** match UI needs to Elasticsearch query/index patterns; discuss refresh and eventual visibility.
 - **Scale:** fan-out to widgets, burst updates, WebSocket backpressure and backend load—not just page-load time.
 
+## eBay hiring manager practice on dashboard performance
+
+**Interview question**  
+Tell me about a time you improved the performance of a data-heavy front end. How did you identify the bottleneck, and how did you know your change helped?
+
+**Practice answer**  
+When I took over a data visualization dashboard, I noticed that widgets were re-rendering even when their own data hadn’t changed. I restructured the component hierarchy and moved state closer to the widgets that used it, so updates affected fewer components. I used `useMemo` to reuse computed values and `useCallback` where stable function references mattered. I also lazy-loaded parts of the dashboard to reduce the amount of code loaded upfront.
+
+**Follow-up to prepare**  
+Pick one interaction that caused unnecessary renders. How did you spot it, and what did you observe after your change?
+
+Prepare a firsthand before-and-after example. Describe server-side rendering and server components as approaches you explored.
+
 ## Past mistakes and feedback
 
 - **Observed coaching:** Frontend internals tended to dominate the story; explicitly state end-to-end data flow and business relevance.
@@ -51,3 +64,5 @@ The product serves a comparatively small set of internal users but supports busi
 - **Source material:** Robin's prior ChatGPT interview-preparation and AI-learning discussions, consolidated into this study note; not a verbatim transcript.
 - **Discussion reference:** Practice period: September–November 2026.
 - **For follow-up:** Share [Citi Visualization Platform and React Performance Deep Dive](https://github.com/szlike/personal-vault/blob/main/project-and-leadership/2026-11-14-citi-visualization-and-react-performance.md) with ChatGPT and ask for a deeper explanation, practice question, or review of past mistakes. Original chat permalinks were not recorded.
+
+- Codex polished the dashboard performance Q&A from Robin’s eBay hiring manager practice on November 16, 2026.
